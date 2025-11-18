@@ -91,7 +91,7 @@ export default function Page() {
       specs: "4.0L V8 • 523 HP • 0-100: 3.8s"
     },
     {
-      image: "https://mediaaws.almasryalyoum.com/news/large/2023/08/15/2174723_0.jpg",
+      image: "https://bimmerlife.com/wp-content/uploads/2023/11/1-873x583.jpg",
       name: "BMW E30 M3",
       year: "1990",
       location: "Zamalek Streets",
